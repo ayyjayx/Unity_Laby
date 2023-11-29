@@ -2,7 +2,7 @@
 Do zrobienia modelu użyłem 58 zdjęć
 ![](meshroom jpgs.jpg)
 ## Kilka z użytych zdjęć
-![](a(4).jpg)
+![](a&nbsp;(4).jpg)
 ![](a(17).jpg)
 ![](a(33).jpg)
 ![](a(39).jpg)
