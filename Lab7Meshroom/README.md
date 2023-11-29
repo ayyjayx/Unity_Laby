@@ -1,6 +1,6 @@
 # Fotorealistyczny model przy użyciu Meshroom + Blender
 Do zrobienia modelu użyłem 58 zdjęć
-![](meshroom%20jpgs.jpg)
+![](meshroom%20jpgs.png)
 ## Kilka z użytych zdjęć
 ![](a%20(4).jpg)
 ![](a%20(17).jpg)
